@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin Demo</string>
+    <string name="market_cap">Market Cap:</string>
+    <string name="low_24">24 Hours Low:</string>
+    <string name="high_24">24 Hours High:</string>
+    <string name="circulating_supply">Circulating Supply:</string>
+    <string name="max_supply">Max Supply:</string>
+    <string name="current_price">Current price:</string>
+    <string name="share_info">Share Info</string>
+    <string name="share_info_title">Share latest updates</string>
+    <string name="order_dialog_title">Select an order</string>
+    <string name="market_cap_order">Market Cap</string>
+    <string name="popularity">Popularity</string>
+    <string name="sorting_order">Sorting order</string>
+
+</resources>
